@@ -1,5 +1,5 @@
 # 💫 Hey there! I'm Çınar:
-I'm currently learning javascript,<br>and these are the other programming languages I know:<br>Senior HTML5 CSS3<br>Mid-Level Python<br>Mid-Level C<br>Jr.Flutter<br>Jr.Kotlin<br>
+I'm currently learning javascript,<br>and these are the other programming languages I know:<br>Senior HTML5 CSS3<br>Mid-Level Python<br>Jr. C<br>Jr.Flutter<br>Jr.Kotlin<br>
 
 
 ## 🌐 Socials:
